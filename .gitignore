@@ -1,0 +1,10 @@
+# Local tooling and caches
+work/
+node_modules/
+.vercel/
+.agents/
+.codex/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db

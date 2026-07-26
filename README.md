@@ -2,6 +2,13 @@
 
 Static MVP website for **Dawaei**, a smart healthcare application for finding medicines, nearby pharmacies, price comparison, and medication reminders.
 
+## Repository contents
+
+- `index.html` — the public entry page.
+- `outputs/dawaei-mvp.html` — the complete responsive Dawaei website.
+- `server.js` and `package.json` — local development server for VS Code.
+- `vercel.json` — optional Vercel configuration.
+
 ## Run locally in VS Code
 
 1. Open this folder in VS Code.
